@@ -84,3 +84,7 @@ An SPA loads once with a shell (HTML + JS). After that, it dynamically updates t
 
 ---
 
+## 📄 Documentation
+
+Note:  
+👉 https://docs.google.com/document/d/1ABqJsaojv4toqjL37oICLvkyojphW8iE-5OvHlqKXKU/edit?usp=sharing
